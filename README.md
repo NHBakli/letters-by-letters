@@ -1,3 +1,3 @@
 # Animate projet
 
-## Animate print letters by letters in TypeScript
+## Letter-by-letter printing animation in TypeScript
