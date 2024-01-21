@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "outDir": "asset/script/js", 
+        "target": "ES2015",
+        "noEmitOnError": true,
+        "strict": true,
+    },
+    "files": [
+        "asset/script/ts/app.ts"
+    ]
+}
